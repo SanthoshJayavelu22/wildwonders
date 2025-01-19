@@ -1,4 +1,4 @@
-import Slider from 'react-slick';
+
 import Header from './component/Header';
 import ProductPage from './component/Products';
 
